@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66f1859e31b3dc58333360da"
+  },
+  "Name of district": "Thrissur",
+  "Camp name": "UPS Azheekode",
+  "Village name": "Azheeekode",
+  "Camp in-charge": "Kishore",
+  "Total inmates": 110
+},
+{
+  "_id": {
+    "$oid": "66f1859e31b3dc58333360db"
+  },
+  "Name of districts": "Thrissur",
+  "Camp name": "Labour school",
+  "Village name": "Pullut",
+  "Camp in-charge": "Syam",
+  "Total inmates": 367
+},
+{
+  "_id": {
+    "$oid": "66f1860931b3dc58333360dc"
+  },
+  "Name of district": "Thrissur",
+  "Camp name": "Vidhyartha Dayani",
+  "Village name": "Methala",
+  "Camp in-charge": "John",
+  "Total inmates": 1550
+},
+{
+  "_id": {
+    "$oid": "66f1860931b3dc58333360dd"
+  },
+  "Name of districts": "Thrissur",
+  "Camp name": "Ambookkan LPS",
+  "Village name": "Poyya",
+  "Camp in-charge": "John",
+  "Total inmates": 244
+},
+{
+  "_id": {
+    "$oid": "66f186ed31b3dc58333360de"
+  },
+  "Name of district": "Kollam",
+  "Camp name": "Aryankavu LPS",
+  "Village name": "Aryankavu",
+  "Camp in-charge": "Manilal",
+  "Total inmates": 20
+},
+{
+  "_id": {
+    "$oid": "66f186ed31b3dc58333360df"
+  },
+  "Name of districts": "Kollam",
+  "Camp name": "Nadukunnu LPS",
+  "Village name": "Pathanapuram",
+  "Camp in-charge": "Sreekuttan",
+  "Total inmates": 103
+},
+{
+  "_id": {
+    "$oid": "66f1876931b3dc58333360e0"
+  },
+  "Name of district": "Wayanadu",
+  "Camp name": "GMUPS Anjukunnu",
+  "Village name": "Anjukunnu",
+  "Camp in-charge": "Babu",
+  "Total inmates": 325
+},
+{
+  "_id": {
+    "$oid": "66f1876931b3dc58333360e1"
+  },
+  "Name of districts": "Wayanadu",
+  "Camp name": "Koolivayal",
+  "Village name": "Cherukattoor",
+  "Camp in-charge": "Geetha",
+  "Total inmates": 50
+}]
